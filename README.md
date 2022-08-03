@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamNarendra
+- 👋 Hi, I’m @Narendra
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
